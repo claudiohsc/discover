@@ -1,3 +1,3 @@
 # Discover - Rocketseat
 
-Repositório de exercícios para a seleção da KPI Hunters.
+Repositório de exercícios e anotações para a seleção da KPI Hunters.
